@@ -1,1 +1,1 @@
-# Receipt_Generator-using-python
+A receipt generator in Python is a program that creates structured receipts for transactions or purchases. It typically takes input such as the items purchased, their prices, tax rates, and any discounts, then formats this information into a readable receipt. This receipt can include details like the date, transaction ID, subtotal, taxes, discounts, and the final total.
